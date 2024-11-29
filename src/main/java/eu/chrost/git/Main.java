@@ -18,5 +18,6 @@ public class Main {
         System.out.println(value);
 
         System.out.println("new feature on master branch");
+        System.out.println("new feature on master branch - amendment");
     }
 }
